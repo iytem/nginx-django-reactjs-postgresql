@@ -50,3 +50,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+#AA added with all directory for PyCharm
+.idea/
